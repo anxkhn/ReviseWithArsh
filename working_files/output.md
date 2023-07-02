@@ -1,35 +1,3 @@
-## How to use? 
-
-To use this template and keep a record of your codes and progress for #CrackYourInternship #CrackYourPlacement Challenge - #ReviseWithArsh
- daily, follow the instructions below:
-
-1. Fork the Repository:
-   
-   - Click on the "Fork" button at the top right corner of the repository page.
-   - This will create a copy of the repository in your GitHub account.
-
-2. Keep track of your solutions:
-   
-   - Create a new directory for the day's code. For example, you can create a directory named "Day1" for the first day's code.
-   - Inside the day's directory, create a new file with a meaningful name, such as "problem1.cpp" or "solution.py".
-   - Paste your code for the chosen problem in this file.
-
-3. Update Your Progress:
-   
-   - After solving the daily DSA problem, update your progress in the repository.
-   - Open the "README.md" file in a text editor.
-   - Add a new entry for the day, including the problem description and the file name where you have written the code.
-   - Save the changes to the "README.md" file.
-
-4. Repeat for Each Day:
-   
-   - Repeat steps 2 and 3 for everyday.
-   - Create a new directory for each day, write your code, and update the "README.md" file accordingly.
-
-
-<br><br>
-
-
 |  |  | Status | Goldman Sachs | Amazon | Walmart | Salesforce | Microsoft |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Arrays  |  |  |  |  |  |  |
