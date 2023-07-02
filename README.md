@@ -5,7 +5,7 @@ To use this template and keep a record of your codes and progress for #CrackYour
 
 1. Fork the Repository:
    
-   - Click on the "Fork" button at the top right corner of the repository page.
+   - Click on the "Use this template" button and click on "Create a new repository".
    - This will create a copy of the repository in your GitHub account.
 
 2. Keep track of your solutions:
